@@ -1,0 +1,44 @@
+Stakeholder:
+
+Interne Stakeholder:
+    Aktiv:
+    -Das Entwicklerteam
+    -Das Testerteam
+
+
+Externe Stakeholder:
+    Aktiv:
+    -User
+    -Prof. Dr. M. Kaul
+    Passiv:
+    -andere Stundenten(Software Engineering I)
+
+
+Nutzen:
+
+-Entwicklerteam/Testerteam:
+    Punkte für Klausurzulassung, funktionierendes digitales Parkhaus, praktische Übung
+
+-User:
+    Funktionierendes digitales Parkhaus
+
+-Prof. Dr. M. Kaul:
+    Funktionierendes digitales Parkhaus, Stoff zur Punktevergabe
+
+-andere Studenten:
+    Funktionierendes digitales Parkhaus, Konkurenz
+
+
+Verbesserung:
+
+-Entwicklerteam/Testerteam:
+    Fortschritt im Studium, Erfahrung
+
+-User:
+    Sein Parkhaus wird a)einfacher, b)produktiver, c)angenehmer
+
+
+
+Es ist keine disruptive Technologie, da es heutzutage Standard ist.
+
+

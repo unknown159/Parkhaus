@@ -1,0 +1,38 @@
+IST-Zustand:
+-Parkhaus
+-Schranken
+-Rollenverteilung
+-Ressourcen zur Digitalisierung
+
+
+
+
+SOLL-Zustand:
+
+Funktionale Anforderungen:
+
+-Inputs:
+    -Einfahren
+    -Ausfahren
+    -Ende des Tages
+    -Infos
+    -Kalender
+
+-Kein Einlass bei vollem Parkhaus
+-Kein Auslass ohne Bezahlung
+
+
+Nicht-Funktionale Anforderungen:
+
+-Bedienbarkeit: Konsolenbasiert
+-Qualität: Hoch, Gewährleistet durch Tests
+-Kein besonderer Wert auf Sicherheit und Performance
+
+
+Technische Anforderungen:
+-Java Programm
+
+
+Rahmenbedingungen:
+-Rechtzeitige Fertigstellung und Abgabe
+

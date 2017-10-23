@@ -1,0 +1,27 @@
+Ungeordnete User Stories:
+
+a)Als Manager benötige ich einen Kalender mit nützlichen Informationen, um Preise festlegen zu können.
+
+b)Als Manager benötige ich einen Kalender mit nützlichen Informationen, um den Gewinn/Verlust berechnen zu können.
+
+c)Als Autofahrer möchte ich schnell und effizient eingewiesen werden, um Zeit zu sparen.
+
+d)Als Autofahrer möchte ich nicht in das Parkhaus gelassen werden, wenn kein Parkplatz frei ist, um keine Zeit zu verschwenden.
+
+e)Als Schranke benötige ich Ticketinformationen, um zu erkennen ob bezahlt wurde.
+
+f)Als Schranke muss ich wissen wie viele Parkplätze noch frei sind, um nötigenfalls den Einlass zu verweigern.
+
+g)Als Schranke benötige ich die Öffnungszeiten, um Ein- und Ausfahrt zu regeln.
+
+h)Als Einweiser muss ich wissen, welche Parkplätze noch frei sind, um einweisen zu können.
+
+i)Als Kassierer benötige ich den Preis pro Stunde und die Parkdauer, um den zu zahlenden Betrag berechnen zu können.
+
+j)Als Kalender benötige ich das aktuelle Datum und die Einnahmen, um die Daten zu speichern.
+
+
+Nummer  Aufwand Mehrwert    Strafe  Risiko  Priorität       Ranking
+a)      2       3           2       2       1,25            6
+
+
