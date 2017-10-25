@@ -3,7 +3,6 @@ public interface SchrankenwartIF {
 	
 	public boolean TicketBezahlt(Auto a);
 	
-	public int freieParkplaetze();
-	
-	public void UpdateOeffnungszeiten();
+	public int freieParkplaetze(Auto[] PP);
+
 }
