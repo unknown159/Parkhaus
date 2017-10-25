@@ -35,4 +35,5 @@ Technische Anforderungen:
 
 Rahmenbedingungen:
 -Rechtzeitige Fertigstellung und Abgabe
+-Funktionsfähiger Javacode als Endprodukt
 
