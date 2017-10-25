@@ -1,8 +1,13 @@
 
 public interface EinweiserIF {
 
-	Auto[] PP = new Auto[100];		//PP = Parkplatz;	100 nur vorläufig
-	
-	public int getNextFreeSpace();
+	public static int getNextFreeSpace(Auto[] PP){
+		for(int i = 0; i<PP.length; i++){
+			if(PP[i]==null){
+				return i;
+			}
+		}
+		return -1;//VOLL!
+	}
 	
 }
